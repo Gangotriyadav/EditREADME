@@ -1,4 +1,4 @@
-Map Project
+Map Project -
 Welcome to the Map Project repository! This project is a web application that allows users to search for the location of any city or country, calculate the distance between two locations, and find nearby places. It provides an interactive map experience using Mapbox.
 
 Key Features
@@ -7,14 +7,14 @@ Distance Calculation: Calculate the distance between two locations.
 Nearby Places: Discover places around the searched location.
 Interactive Map: Users can zoom in/out, pan, and interact with the map.
 
-Technologies Used
+Technologies Used -
 HTML: For the structure and layout of the web application.
 CSS: To style the application and make it responsive and visually appealing.
 JavaScript: Adds functionality and dynamic features, such as searching locations and calculating distances.
 Mapbox API: For rendering maps, fetching location data, and implementing map features.
 
 
-How to Use
+How to Use -
 Search for a Location: Enter a city or country in the search bar and click the search button. The map will zoom in on the searched location.
 Find Nearby Places: Click on "Find Nearby Places" after searching for a location to see nearby points of interest.
 Calculate Distance: Enter a second location, and the app will calculate the distance between the two places.
